@@ -54,19 +54,16 @@ Entre las características principales se incluyen:
 ## 🎨 Estilo Visual y HUD
 
 El juego adopta un **estilo low poly** con una **vista isométrica clara**, combinando simplicidad visual con legibilidad durante el combate.  
-El **HUD** presenta un diseño **limpio y funcional**, mostrando:
-- Contador de munición.  
-- Indicador de arma activa.  
-- Efectos visuales de daño y recarga.
+No Posee **HUD**, se deseo un Proyecto sin HUD
 
-Los colores y materiales transmiten una **sensación de “juguetes en guerra”**, reforzando la identidad de *Small Toys*.
+Las Estructuras usan colores planos (Rojos y Grises) para ayudar a detectar a los enemigos, reforzando la identidad de *Small Toys*.
 
 ---
 
 ## 🎬 Captura del Proyecto
 
 <div align="center">
-  <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC/blob/main/Captura02.webp" width="350" alt="Captura del proyecto Small Toys"/>
+  <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC/blob/main/Captura%20de%20pantalla%202025-11-06%20094052.png" width="350" alt="Captura del proyecto Small Toys"/>
 </div>
 
 ---
@@ -77,7 +74,7 @@ Los colores y materiales transmiten una **sensación de “juguetes en guerra”
 |----------|-------------|
 | 📅 **Año** | 2025 |
 | 💼 **Origen** | Encargo freelance |
-| 🧾 **Duración de desarrollo** | 2 días |
+| 🧾 **Duración de desarrollo** | 6 días |
 | 🎨 **Modelos / UI** | Modelado en Blender y edición en Krita |
 | 🔊 **Audio** | Producido y editado por el desarrollador |
 | 👨‍💻 **Desarrollador** | Milton Castro |

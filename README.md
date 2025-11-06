@@ -13,7 +13,7 @@ Se combinaron **assets de Mixamo** para animaciones, modelos personalizados en *
 Además, se integró un **avión atacante** que sobrevuela el campo y lanza **proyectiles explosivos** que afectan tanto a enemigos como al jugador, añadiendo **dinamismo y peligro constante** a la escena.
 
 <div align="left">
-  <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC/blob/main/Captura01.webp" width="350" alt="Captura del proyecto CODE:AC"/>
+  <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC/blob/main/Captura%20de%20pantalla%202025-11-06%20094052.png" width="350" alt="Captura del proyecto CODE:AC"/>
 </div>
 
 ---
